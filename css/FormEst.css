@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url('img/portada.jpg');
+    background-image: url("img/portada.jpg");
   }
   
 
  
       body{
-        background-image: url('img/portada.jpg');
+        background-image: url("img/portada.jpg");
         font-family: 'open sans'; 
       }
     
