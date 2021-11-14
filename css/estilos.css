@@ -134,7 +134,7 @@ header .textos-header{
 .galeria-port{
     display:flex;
     justify-content:space-evenly;
-    flex-wrap:nowrap;
+    flex-wrap:wrap;
 }
 
 .imagen-port{
@@ -337,6 +337,17 @@ footer{
         margin-bottom: 30px;
     }
 
+    .cards .card .contenido-texto-card h4{
+        font-size: 15px;
+    }
+        .cards .card .contenido-texto-card p{
+            font-size: 13px;
+            padding: 10px 10px 10px 10px;
+            justify-content: center;
+            text-align:justify; 
+    
+        }
+
     /* servicios */
     
     .servicio-cont{
@@ -482,3 +493,25 @@ footer{
     }
 }
 
+   .cards .card .contenido-texto-card h4{
+        font-size: 15px;
+    }
+        .cards .card .contenido-texto-card p{
+            font-size: 13px;
+            padding: 10px 10px 10px 10px;
+            justify-content: center;
+            text-align:justify; 
+    
+        }
+        @media screen and (max-width:380px){
+
+            .cards .card .contenido-texto-card h4{
+                font-size: 11px;
+            }
+                .cards .card .contenido-texto-card p{
+                    font-size: 10px;
+                    padding: 10px 10px 10px 10px;
+                    justify-content: center;
+                    text-align:justify;
+                }
+            } 
