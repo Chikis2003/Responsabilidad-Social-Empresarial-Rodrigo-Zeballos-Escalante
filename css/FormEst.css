@@ -2,13 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: url("https://www.xtrafondos.com/wallpaper/5120x2881/8535-montanas-bajo-cielo-verde.html");
+    background-image: url('https://www.xtrafondos.com/wallpaper/5120x2881/8535-montanas-bajo-cielo-verde.html');
   }
   
 
  
       div {
-        background-image: url("https://www.xtrafondos.com/wallpaper/5120x2881/8535-montanas-bajo-cielo-verde.html");
+        background-image: url('https://www.xtrafondos.com/wallpaper/5120x2881/8535-montanas-bajo-cielo-verde.html');
         font-family: 'open sans'; 
       }
     
