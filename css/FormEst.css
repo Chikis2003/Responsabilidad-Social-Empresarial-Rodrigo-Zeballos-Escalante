@@ -7,27 +7,12 @@
 
  
       header{
-        background-image: url('fondo.jpg');
+        background-image: url('portada.jpg');
         font-family: 'open sans'; 
       }
     
  
-  
-/* Header */
-/* https://uigradients.com/#Memariani */
-header{
-    width: 100%;
-    height: 715px;
-    background: #159957; 
-     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(210, 76%, 34%, 0.459) , #159957), url(../img/portada.jpg);   
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(210, 76%, 34%, 0.459) , #159957), url(../img/portada.jpg); 
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background-size:100%;
-    background-attachment: fixed;
-    position:absolute;
-}
+ 
 
   .form-register {
     width: 400px;
