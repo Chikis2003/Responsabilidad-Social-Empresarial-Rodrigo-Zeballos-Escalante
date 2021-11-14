@@ -6,7 +6,7 @@
 
 body {
   background: rgb(2,0,36);
-background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,95,121,1) 35%, rgba(0,212,255,1) 100%);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,79,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .form-register {
@@ -32,7 +32,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,95,121,1) 35%, rgba
   padding: 10px;
   border-radius: 4px;
   margin-bottom: 16px;
-  border: 1px solid #1f53c5;
+  border: 1px solid #1fc5af;
   font-family: 'calibri';
   font-size: 18px;
   color: white;
@@ -57,10 +57,11 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,95,121,1) 35%, rgba
 
 .form-register .botons {
   width: 100%;
-  background: #1f53c5;
+  background: #0ca86c;
   border: none;
   padding: 12px;
   color: white;
   margin: 16px 0;
   font-size: 16px;
 }
+
